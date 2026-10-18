@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mvantellingen/python-zeep/commit/1b7072c0dba397b86e8a47cf766a39f981b3a2de",
       "git:hexsha": "1b7072c0dba397b86e8a47cf766a39f981b3a2de",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.3.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.3.3",
+      "repolex:parsedAt": "2026-10-18T06:13:26.875363+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mvantellingen/python-zeep/commit/37b631c8cf3fd13957287dbcb7035e801a719a0d",
